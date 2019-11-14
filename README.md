@@ -1,4 +1,4 @@
-# HANZO Style Guide
+# HANZO Style Guides
 Here lies carefully selected conventions based on years of experience as well as a few purely aesthetic preferences.  Conventions contribute to longterm maintenece, efficeniency, and reusiblity of code.
 
 If you are modifying a project that originated at Hanzo, or begining a new project at Hanzo, code must adhere to these conventions.  Please go through process of checking your code first rather than being rejected for not meeting our guidelines.
@@ -12,10 +12,10 @@ To contribute to the style guide:
 2. Update document with your suggestions
 3. Submit PR
 
-# Index
-- [Git Style Guide](git.md)
-- [JavaScript Style Guide](js.md)
-- [React Style Guide](react.md)
+# Style Guides
+- [Git](git.md)
+- [JavaScript](js.md)
+- [React](react.md)
 
 # Zen of Hanzo
 
