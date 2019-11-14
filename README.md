@@ -12,6 +12,11 @@ To contribute to the style guide:
 2. Update document with your suggestions
 3. Submit PR
 
+# Index
+- [Git Style Guide](git.md)
+- [JavaScript Style Guide](js.md)
+- [React Style Guide](react.md)
+
 # Zen of Hanzo
 
 The Zen of Hanzo guides the design and engineering of all of our products.
