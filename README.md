@@ -12,12 +12,6 @@ Adhering to this process is the best way to get your convention included in the 
 2. Update document with your suggestions
 3. Submit PR
 
-[JavaScript Style Guide][js]
-[React Style Guide][react]
-
-[js]: https://hanzoai.github.io/hanzoai/styleguide/blob/master/jsguide.md
-[react]: https://hanzoai.github.io/styleguide/blob/master/reactguide.md
-
 # Zen of Hanzo
 
 
