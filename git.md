@@ -1,1 +1,1 @@
-# Git Guide
+# Git Style Guide
