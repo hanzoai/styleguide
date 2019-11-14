@@ -10,8 +10,8 @@
 
 ## Hooks
 
-  <a name="reacthooks--semicolon"></a><a name="1.1"></a>
-  - [1.1](reacthooks) **semicolon**: We hope to replace all class components with react hooks
+  <a name="reacthooks"></a><a name="1.1"></a>
+  - [1.1](reacthooks) **React Hooks**: We hope to replace all class components with react hooks
 
   >Why? Hooks provide the ability to extract state and the React lifecycle into functions that can be utilized across components in your app, making it easy to share logic.
 

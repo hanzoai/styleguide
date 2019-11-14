@@ -13,14 +13,14 @@
 ## Syntax
 
   <a name="syntax--semicolon"></a><a name="1.1"></a>
-  - [1.1](syntax--semicolon) **semicolon**: JavaScript semicolons are optional. As company preference, we omit semicolons
+  - [1.1](syntax--semicolon) **Semicolon**: JavaScript semicolons are optional. As company preference, we omit semicolons
 
     ```javascript
     const foo = 1
     console.log(foo) // => 1
     ```
-  <a name="syntax--complex"></a><a name="1.2"></a>
-  - [1.2](#syntax--trailing-comma)  **Complex**: JavaScript has allowed trailing commas in array literals since the beginning, and later added them to object literals (ECMAScript 5) and most recently (ECMAScript 2017) to function parameters.
+  <a name="syntax--trailing"></a><a name="1.2"></a>
+  - [1.2](#syntax--trailing-comma)  **Traling Comma**: JavaScript has allowed trailing commas in array literals since the beginning, and later added them to object literals (ECMAScript 5) and most recently (ECMAScript 2017) to function parameters.
 
   >Why? Trailing commas can be useful when adding new elements. If you want to add a new property, you can simply add a new line without modifying the previously last line if that line already uses a trailing comma. This makes version-control diffs cleaner and editing code might be less troublesome.
 
