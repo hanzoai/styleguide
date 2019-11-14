@@ -8,9 +8,9 @@ If you are modifying a project that originated at Hanzo, or begining a new proje
 This is a living document.  Please feel add your own suggestions.
 Adhering to this process is the best way to get your convention included in the project:
 
-# Fork this repo
-# Update document with your suggestions
-# Submit PR
+1. Fork this repo
+2. Update document with your suggestions
+3. Submit PR
 
 [JavaScript Style Guide][js]
 [React Style Guide][react]
