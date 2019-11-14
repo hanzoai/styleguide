@@ -1,4 +1,4 @@
-# HanzoAI JavaScript Style Guide() {
+# JavaScript Style Guide
 
 *Carefully selected conventions based on years of experience as well as purely aesthetic preferences*
 

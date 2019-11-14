@@ -18,3 +18,108 @@ Adhering to this process is the best way to get your convention included in the 
 [js]: https://hanzoai.github.io/hanzoai/styleguide/blob/master/jsguide.md
 [react]: https://hanzoai.github.io/styleguide/blob/master/reactguide.md
 
+# Zen of Hanzo
+
+
+## Orthogonality
+
+
+
+*   Functionality across components should not be shared.
+*   There should be preferably only one way to do something
+
+
+## Smallness
+
+
+
+*   Each thing should have a small number of concerns
+*   Components should ideally do just one thing
+*   APIs are easier to understand when they do less
+
+
+## Consistency
+
+
+
+*   ...but not at the expense of pragmatism
+*   APIs should use consistent standards
+*   Copy yourself
+
+
+## Composability
+
+
+
+*   Build large things out of small components
+*   It’s easier to build large things out of many small components
+
+
+## Completeness
+
+
+
+*   “Batteries included.” Our standard library should cover as many use cases as possible
+*   No single API tries to do everything, but collectively can accomplish anything
+
+
+## Dimensionality
+
+
+
+*   Provide access to multiple layers of abstraction
+*   Conceal complexity but do not prevent access to it
+*   Components compose across multiple dimensions
+*   Use the right layer of abstraction
+
+
+## Agility
+
+
+
+*   Adapt and evolve as necessary.
+*   Organizations need to be able to move at will
+*   Nothing should lock you in
+*   You should be able to grow rapidly
+*   Collect the right things (small / big), look at details + big picture
+
+
+## Reflect
+
+
+
+*   Accessibility to data is important
+*   Deep reflection is important for design especially
+
+
+## Clarity
+
+
+
+*   Ideas should be communicated in their simplest forms
+*   Our APIs should be designed as intuitive as possible
+*   Our documentation should enable users to absorb information as easily as possible, with as little fluff
+*   Coherence and quality of data gathered / your own understanding
+
+
+## Focus
+
+
+
+*   commit to a single course of action guided by data
+*   “If you chase two rabbits, you will lose them both.”
+*   Our APIs should be focused on solving single problems
+
+Requires more thought:
+
+
+
+*   Thoughtfulness
+*   Compassion / Empathy
+*   Diversity (of thought, of background)
+*   Disruptive vs Incremental
+*   Responsiveness (esp to customers)
+*   Uniqueness (brandability? Personalization from brand or customer perspective)
+
+
+

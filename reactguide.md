@@ -1,4 +1,4 @@
-# HanzoAI React Style Guide() {
+# HanzoAI React Style Guide
 
 *Carefully selected conventions based on years of experience as well as purely aesthetic preferences*
 
@@ -6,9 +6,9 @@
 
 ## Table of Contents
 
-  1. [React Hooks](#reacthooks)
+  1. [React Hooks](#hooks)
 
-## Syntax
+## Hooks
 
   <a name="reacthooks--semicolon"></a><a name="1.1"></a>
   - [1.1](reacthooks) **semicolon**: We hope to replace all class components with react hooks
