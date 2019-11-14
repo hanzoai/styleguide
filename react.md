@@ -1,8 +1,6 @@
-# HanzoAI React Style Guide
+# React Style Guide
 
-*Carefully selected conventions based on years of experience as well as purely aesthetic preferences*
-
-> **Note**: this guide assumes you are using [Babel](https://babeljs.io)
+=> **Note**: this guide assumes you are using [Babel](https://babeljs.io)
 
 ## Table of Contents
 
@@ -21,5 +19,3 @@
     ```
 
 **[⬆ back to top](#table-of-contents)**
-
-
