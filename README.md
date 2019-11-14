@@ -15,6 +15,6 @@ Adhering to this process is the best way to get your convention included in the 
 [JavaScript Style Guide][js]
 [React Style Guide][react]
 
-[js]: https://hanzoai.github.io/styleguide/jsguide.md
-[react]: https://hanzoai.github.io/styleguide/reactguide.md
+[js]: https://hanzoai.github.io/hanzoai/styleguide/blob/master/jsguide.md
+[react]: https://hanzoai.github.io/styleguide/blob/master/reactguide.md
 
