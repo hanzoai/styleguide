@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="styleguide" width="880"></p>
+
 # HANZO Style Guides
 Here lies carefully selected conventions based on years of experience as well as a few purely aesthetic preferences.  Conventions contribute to longterm maintenece, efficeniency, and reusiblity of code.
 
