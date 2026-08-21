@@ -18,6 +18,7 @@ To contribute to the style guide:
 - [Git](git.md)
 - [JavaScript](js.md)
 - [React](react.md)
+- [Whitespace](whitespace.md) — indentation width for every language in the estate
 
 # Zen of Hanzo
 
