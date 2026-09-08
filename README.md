@@ -1,75 +1,30 @@
 <p align="center"><img src=".github/hero.svg" alt="styleguide" width="880"></p>
 
-# HANZO Style Guides
-Here lies carefully selected conventions based on years of experience as well as a few purely aesthetic preferences.  Conventions contribute to longterm maintenece, efficeniency, and reusiblity of code.
+# Style Guide
 
-If you are modifying a project that originated at Hanzo, or begining a new project at Hanzo, code must adhere to these conventions.  Please go through process of checking your code first rather than being rejected for not meeting our guidelines.
+The conventions every repo follows, in one place. Brand-neutral on purpose: the
+same guide governs `hanzoai`, `zooai` and `luxfi`, because one set of
+conventions across the estate is the point.
 
-This is a living document.  Please feel add your own suggestions.
+- [Commits](git.md) — the message, and what a branch is for
+- [Naming](naming.md) — first principles, no compound words, one name per concept
+- [Comments and documentation](prose.md) — what code does, not how it got here
+- [Architecture](architecture.md) — one way, addresses, what you do not build
+- [TypeScript and the web](typescript.md) — `@hanzo/gui`, tokens, packages
+- [Go](go.md) — the driver, the ORM, typed ops, identity
 
-# Contributing
-To contribute to the style guide:
+## The short version
 
-1. Fork this repo
-2. Update document with your suggestions
-3. Submit PR
+One and only one way to do everything. Composable, orthogonal, complete. Name it
+what it is. Write as little code as the job needs, and delete what the job no
+longer needs. No backwards compatibility, no shims, no second implementation
+kept alive to avoid moving callers.
 
-# Style Guides
-- [Git](git.md)
-- [JavaScript](js.md)
-- [React](react.md)
+Comments say what the code does. The log holds the history.
 
-# Zen of Hanzo
+Never build auth. Never put a secret in source. Never fake a control.
 
-The Zen of Hanzo guides the design and engineering of all of our products.
+## Contributing
 
-## Orthogonality
-*   Functionality across components should not be shared
-*   There should be preferably only one way to do something
-
-## Smallness
-*   Each thing should have a small number of concerns
-*   Components should ideally do just one thing
-*   APIs are easier to understand when they do less
-
-## Consistency
-*   ...but not at the expense of pragmatism
-*   APIs should use consistent standards
-*   Copy yourself
-
-## Composability
-*   Build large things out of small components
-*   It’s easier to build large things out of many small components
-
-
-## Completeness
-*   “Batteries included.” Our standard library should cover as many use cases as possible
-*   No single API tries to do everything, but collectively can accomplish anything
-
-## Dimensionality
-*   Provide access to multiple layers of abstraction
-*   Conceal complexity but do not prevent access to it
-*   Components compose across multiple dimensions
-*   Use the right layer of abstraction
-
-## Agility
-*   Adapt and evolve as necessary.
-*   Organizations need to be able to move at will
-*   Nothing should lock you in
-*   You should be able to grow rapidly
-*   Collect the right things (small / big), look at details + big picture
-
-## Reflect
-*   Accessibility to data is important
-*   Deep reflection is important for design especially
-
-## Clarity
-*   Ideas should be communicated in their simplest forms
-*   Our APIs should be designed as intuitive as possible
-*   Our documentation should enable users to absorb information as easily as possible, with as little fluff
-*   Coherence and quality of data gathered / your own understanding
-
-## Focus
-*   commit to a single course of action guided by data
-*   “If you chase two rabbits, you will lose them both.”
-*   Our APIs should be focused on solving single problems
+Open a PR against `main`. A convention earns its place by removing a decision
+someone would otherwise make twice.
