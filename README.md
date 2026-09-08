@@ -12,6 +12,7 @@ conventions across the estate is the point.
 - [Architecture](architecture.md) — one way, addresses, what you do not build
 - [TypeScript and the web](typescript.md) — `@hanzo/gui`, tokens, packages
 - [Go](go.md) — the driver, the ORM, typed ops, identity
+- [Whitespace](whitespace.md) — indent width by language, and who decides it
 
 ## The short version
 
@@ -23,6 +24,14 @@ kept alive to avoid moving callers.
 Comments say what the code does. The log holds the history.
 
 Never build auth. Never put a secret in source. Never fake a control.
+
+## Licence
+
+[CC0 1.0 Universal](LICENSE) — dedicated to the public domain. Copy any of
+it into your own repo's instructions, adapt it, ship it, no attribution
+asked. A convention that costs a licence check to follow does not spread,
+and these are worth more the further they travel. `llms.txt` indexes the
+guides for machine readers.
 
 ## Contributing
 
