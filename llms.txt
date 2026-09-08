@@ -2,8 +2,8 @@
 
 > The coding conventions every repo in the hanzoai, zooai and luxfi estate
 > follows. Brand-neutral on purpose: one set of conventions across the estate.
-> Dedicated to the public domain under CC0-1.0, so an agent may copy any of it
-> into a repo's own instructions without ceremony or attribution.
+> Licensed MIT OR Apache-2.0, so an agent may copy any of it into a repo's own
+> instructions.
 
 Read these in full — each is short enough to finish, and a guide nobody
 finishes governs nothing.
@@ -21,4 +21,4 @@ finishes governs nothing.
 ## Optional
 
 - [Guide for agents](https://raw.githubusercontent.com/hanzoai/styleguide/main/AGENTS.md): what belongs in this repo and what does not
-- [Licence](https://raw.githubusercontent.com/hanzoai/styleguide/main/LICENSE): CC0 1.0 Universal
+- [Licence](https://raw.githubusercontent.com/hanzoai/styleguide/main/LICENSE): MIT OR Apache-2.0
