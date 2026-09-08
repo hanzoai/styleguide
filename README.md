@@ -14,6 +14,8 @@ conventions across the estate is the point.
 - [Go](go.md) — the driver, the ORM, typed ops, identity
 - [Whitespace](whitespace.md) — indent width by language, and who decides it
 
+`llms.txt` is the same index for machine readers, with absolute URLs.
+
 ## The short version
 
 One and only one way to do everything. Composable, orthogonal, complete. Name it
@@ -27,11 +29,7 @@ Never build auth. Never put a secret in source. Never fake a control.
 
 ## Licence
 
-[CC0 1.0 Universal](LICENSE) — dedicated to the public domain. Copy any of
-it into your own repo's instructions, adapt it, ship it, no attribution
-asked. A convention that costs a licence check to follow does not spread,
-and these are worth more the further they travel. `llms.txt` indexes the
-guides for machine readers.
+`MIT OR Apache-2.0`, per [HIP-0137](https://github.com/hanzoai/hips/blob/main/HIPs/hip-0137-one-license.md).
 
 ## Contributing
 
