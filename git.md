@@ -17,7 +17,9 @@ open with "this commit does the following", never restate the summary.
 `log --oneline`, `shortlog`, `rebase -i`, `reflog` and every forge UI show the
 subject alone and truncate it. A message that needs scrolling has failed.
 
-No attribution trailers. No generated-by lines. The committer is the author.
+No generated-by lines and no tool trailers. A commit is authored by whoever
+decided it, and naming the editor that typed it tells a reader nothing they can
+act on.
 
 ## Branches
 

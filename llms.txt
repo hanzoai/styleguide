@@ -1,0 +1,24 @@
+# Style Guide
+
+> The coding conventions every repo in the hanzoai, zooai and luxfi estate
+> follows. Brand-neutral on purpose: one set of conventions across the estate.
+> Dedicated to the public domain under CC0-1.0, so an agent may copy any of it
+> into a repo's own instructions without ceremony or attribution.
+
+Read these in full — each is short enough to finish, and a guide nobody
+finishes governs nothing.
+
+## Guides
+
+- [Commits](https://raw.githubusercontent.com/hanzoai/styleguide/main/git.md): the message, what a branch is for
+- [Naming](https://raw.githubusercontent.com/hanzoai/styleguide/main/naming.md): first principles, no compound words, one name per concept
+- [Comments and documentation](https://raw.githubusercontent.com/hanzoai/styleguide/main/prose.md): what code does, not how it got here
+- [Architecture](https://raw.githubusercontent.com/hanzoai/styleguide/main/architecture.md): one way, addresses, what you do not build
+- [TypeScript and the web](https://raw.githubusercontent.com/hanzoai/styleguide/main/typescript.md): the component layer, tokens, packages
+- [Go](https://raw.githubusercontent.com/hanzoai/styleguide/main/go.md): the driver, the ORM, typed ops, identity
+- [Whitespace](https://raw.githubusercontent.com/hanzoai/styleguide/main/whitespace.md): indent width by language, and who decides it
+
+## Optional
+
+- [Guide for agents](https://raw.githubusercontent.com/hanzoai/styleguide/main/AGENTS.md): what belongs in this repo and what does not
+- [Licence](https://raw.githubusercontent.com/hanzoai/styleguide/main/LICENSE): CC0 1.0 Universal
